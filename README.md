@@ -1,2 +1,3 @@
 # bookbot
-# yeah this is lit
+
+This is my first git project
